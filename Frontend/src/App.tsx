@@ -167,8 +167,6 @@ function App() {
 		});
 	};
 
-	console.log(MessageTheme);
-
 	return (
 		<>
 			<div className={`w-full h-screen ${theme} `}>
